@@ -9,6 +9,7 @@ Este proyecto tiene como objetivo analizar las ventas de diferentes tiendas, obt
 
 El análisis busca:
 
+- Analizar la facturación total
 - Identificar los productos más y menos vendidos por tienda.
 - Analizar las categorías con mayores ingresos.
 - Calcular el promedio de calificaciones por tienda.
@@ -36,22 +37,22 @@ El análisis busca:
 
 ## 📊 Ejemplos de Gráficos e Insights
 
-### 1. **Ventas por Categoría (Barras Horizontales)**
+###1. **Facturación total**
+Comparación de la facturación total de cada tienda
+
+![ventas](imagenes/ventas.png)
+
+###2. **Ventas por Categoría**
 Comparación del total vendido por categoría para cada tienda.
 
-![ventas_categoria](imagenes/ventas_categoria.png)
-
-### 2. **Radar de Ventas por Tienda**
-Visualización en estrella de las categorías más fuertes por tienda.
-
-![ventas_radar](imagenes/ventas_radar.png)
+![ventas_categoria](imagenes/ventas_categorias.png)
 
 ### 3. **Distribución de Calificaciones**
 ¿Cuántas calificaciones de 1 a 5 recibió cada tienda?
 
 ![calificaciones](imagenes/calificaciones.png)
 
-### 4. **Promedio de costo de envío**
+### 5. **Promedio de costo de envío**
 ¿Cual es el promedio que gasta cada tiendae en envío?
 
 ![Costo de envío](imagenes/costo_envio.png)
